@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MachineListTest</string>
+    <string name="Machines_RecyclerView_item_name_default">注塑机名称</string>
+    <string name="Machines_RecyclerView_item_address_default">广东广州</string>
+    <string name="Machines_RecyclerView_item_lowerest_wholesale_default">最低批发量：</string>
+    <string name="Machines_RecyclerView_item_lowerest_wholesale_number_default">1001</string>
+    <string name="Machines_RecyclerView_item_price_default">￥2350000</string>
+    <string name="Machines_SearchEditTexthint_default">搜索需要采购的物品</string>
+    <string name="Machines_top_recommend_text_default">物品推荐</string>
+
+</resources>
